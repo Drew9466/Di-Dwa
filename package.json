@@ -1,18 +1,18 @@
 {
-  "name": "di-dwa-mock",
+  "name": "di-dwa",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview --port 5173"
   },
   "dependencies": {
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "vite": "5.1.0",
+    "vite": "4.3.9",
     "@vitejs/plugin-react": "4.0.0"
   }
 }
